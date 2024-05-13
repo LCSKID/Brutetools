@@ -1,4 +1,5 @@
 # BruteTools
 
 Hello, This folder cintains multiple cool projects. Most of these are skidded or heavily inspired.
-![glitch](https://github.com/LCSKID/ngfxhgnnbgfn/assets/165964008/b837e371-f91d-45a4-b6fe-6a90182cc0dd)
+
+![glitch (1)](https://github.com/LCSKID/ngfxhgnnbgfn/assets/165964008/288a11aa-712b-4e9d-a0a7-99f9eb0b7e39)
